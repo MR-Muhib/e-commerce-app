@@ -1,0 +1,89 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "url": "https://static3.bigstockphoto.com/9/4/7/large1500/74950648.jpg",
+      "name": "Syltherine",
+      "description": "Stylish cafe chair",
+      "rate": " 2.500.000"
+    },
+    {
+      "id": 2,
+      "url": "https://imagekit.io/tools/asset-public-link?detail=%7B%22name%22%3A%22Images%20(2).png%22%2C%22type%22%3A%22image%2Fpng%22%2C%22signedurl_expire%22%3A%222024-12-17T15%3A58%3A01.801Z%22%2C%22signedUrl%22%3A%22https%3A%2F%2Fmedia-hosting.imagekit.io%2F%2Fc9899eefaf334195%2FImages%2520(2).png%3FExpires%3D1734451082%26Key-Pair-Id%3DK2ZIVPTIP2VGHC%26Signature%3DPOEaTc0C6cn~9nIWFhm7J07PA0dEs49GhwnIa0hNhu~HRcmnEEUADykJ3~ekNJ5x4CB0fm6K14~~a~b6dSJNq0gRYaxrvwMairuPukpWHLOFbPsZrmG4y9gLNepDhJ2qY70E7nxPOY2t80hgxcGsNHoNrhYmB~n~yURZddSJKuQYks351j31N90ESmQpbSEUoSWt4pgQ~qhNY~Rzpvd4wLtP6O0OmlvnckcwjqQpAzZ50sZtxYxnWQmo4NX807ffAj-o2AU2AaHhWpHEnHkfLStf84oExZ4CdiIo~6h09eMd7Hp6BGJ589QkYR1HjJ~qEDYQiUytR0U674~L~Jhpmw__%22%7D",
+      "name": "Leviosa",
+      "description": "Ergonomic office chair",
+      "rate": "Rp 3.000.000"
+    },
+    {
+      "id": 3,
+      "url": "https://imagekit.io/tools/asset-public-link?detail=%7B%22name%22%3A%22Images%20(3).png%22%2C%22type%22%3A%22image%2Fpng%22%2C%22signedurl_expire%22%3A%222024-12-17T15%3A58%3A01.800Z%22%2C%22signedUrl%22%3A%22https%3A%2F%2Fmedia-hosting.imagekit.io%2F%2F339d450f75a24046%2FImages%2520(3).png%3FExpires%3D1734451082%26Key-Pair-Id%3DK2ZIVPTIP2VGHC%26Signature%3Dmniq~9RtWUco~-ZKnfgaWFshJVF0lyQIloYUHB8QE7M997Jb9JC29XIo0r~j-h74k6C50Q9NGRliee6IPhdIhyM8cP8Doe36sw~zZdIS6NHAOt7c7wipgJntmqo8WpD2T8EEep4V8QRE-OM3KcmpraRTaEGdhQXDAVjXsDqZd9x~UyN-noth3LX~QQ2~fF6iffy-r41xkGStlux6iXCU8AnI1DJGZ~dmUMP21wRPpJUtNg4YrGuICjL~~zc-B7sPp1w84W1kD4WEGQB0fA0nC2SYQHW5fmvpDIea~~GTC9cdWNlryxyiEmyQRhmQyMDo1XyR0bPC-lVTD2ZGrqBXLg__%22%7D",
+      "name": "Gravica",
+      "description": "Modern dining chair",
+      "rate": "Rp 1.800.000"
+    },
+    {
+      "id": 4,
+      "url": "https://imagekit.io/tools/asset-public-link?detail=%7B%22name%22%3A%22Images%20(4).png%22%2C%22type%22%3A%22image%2Fpng%22%2C%22signedurl_expire%22%3A%222024-12-17T15%3A58%3A01.798Z%22%2C%22signedUrl%22%3A%22https%3A%2F%2Fmedia-hosting.imagekit.io%2F%2F63e47ed5075a407b%2FImages%2520(4).png%3FExpires%3D1734451082%26Key-Pair-Id%3DK2ZIVPTIP2VGHC%26Signature%3DZRbGrd7bAM1Xf73gwyzvkqiAWAS54F2ULk1rtGOacxs4GRStPSaOaVw3wkunadjLxRq-2GRBGNfQa3FrHUGkvkrvuE8eECyWAl7xmkNt76u~OYObBzzcK3QhYhkVFXbzV82lC9sq7hdHGn7aO-e3QCNrwVZTMvqBZFX91J14ypSQ~98k3GRaH8EJCP1IKIMzMrh1EqcWem~WY0MRZh5BtOJuJlAGWr~EFcK2Yb6BOj24p6SGG-YMe3ivMv7iss3QIefBXYu2flusODTl3SuQPPbeoRJUCNrfF2uFj5DDtrz9rawQ7strDL5D~sx8Aw4L4rXOQrGRrZ~cMsZZcc~BAg__%22%7D",
+      "name": "Flytro",
+      "description": "Classic wooden chair",
+      "rate": " 2.200.000"
+    },
+    {
+      "id": 5,
+      "url": "https://imagekit.io/tools/asset-public-link?detail=%7B%22name%22%3A%22Images%20(5).png%22%2C%22type%22%3A%22image%2Fpng%22%2C%22signedurl_expire%22%3A%222024-12-17T15%3A58%3A01.796Z%22%2C%22signedUrl%22%3A%22https%3A%2F%2Fmedia-hosting.imagekit.io%2F%2Fdc6f2fa5609741c4%2FImages%2520(5).png%3FExpires%3D1734451082%26Key-Pair-Id%3DK2ZIVPTIP2VGHC%26Signature%3DZzldc-k5tjrYUVYE3mQXPWT9GeKtUtFAQQ5xgIDi0shbw8Fa4Sy4HHor7aG96AhOYuyZd62ImeUeoiJz1snFni~XkOf8MvuHXgpAdcH324vFIj4oBqoGx3-l8pLbgz5-61Jc7doy26xVyRH~9OVNRmb2vbRcEddYJvifBSgHMXmXrf88CIqCbhuAjvtlsIjxT7dFQFFTpWW7Rcc3JG3TpWv8VDghgQtADNPOCqFLZgoLtJZcE8gqhHREjH8HaqS7hbQGntMODEIZTEatFF5Vu12DxkK4NGtkFFrdEE32R6YrTbyYEZgTalZGzUSJkjpD2xNMSbljZys0euQvKYMAXA__%22%7D",
+      "name": "Luxber",
+      "description": "Luxury leather chair",
+      "rate": "Rp 5.500.000"
+    },
+    {
+      "id": 6,
+      "url": "https://imagekit.io/tools/asset-public-link?detail=%7B%22name%22%3A%22image%208.png%22%2C%22type%22%3A%22image%2Fpng%22%2C%22signedurl_expire%22%3A%222024-12-17T15%3A58%3A01.794Z%22%2C%22signedUrl%22%3A%22https%3A%2F%2Fmedia-hosting.imagekit.io%2F%2Fb884f8f2dfc14262%2Fimage%25208.png%3FExpires%3D1734451082%26Key-Pair-Id%3DK2ZIVPTIP2VGHC%26Signature%3Dasf3t8icpdLvHEEqwyxkhyMC4mzgJS8k3-Vy3dkXvonuTZ6RFujk6v1L8yMYgi35lJyn8mavz7qWzuBvHS5DsqGeCKOyxpn0TtNI4Np2Ouyadv1m7m0wzbu7~5FS1itno7ExjnW2q3KPtro-RX~LWuHwaNOokv5Mv0R8iI3p7aDDIzBLvEh3kzWHVYd5T1XzkaiF9nR4qGuBS8tdbtLcS1psI662zbxpewCaGpWOENJIbAEVj4pHKVh2jtGrZEFf8tTh7XR4oEAOoUlYqqvY6T065uoiMEKe0RA-mt1-l7Ixl7hThFf3owNtF7X0F443qwNW5UlN-UMNoQ5BbutYcg__%22%7D",
+      "name": "Bella",
+      "description": "Minimalist lounge chair",
+      "rate": "Rp 2.400.000"
+    },
+    {
+      "id": 7,
+      "url": "https://imagekit.io/tools/asset-public-link?detail=%7B%22name%22%3A%22Images%20(6).png%22%2C%22type%22%3A%22image%2Fpng%22%2C%22signedurl_expire%22%3A%222024-12-17T15%3A58%3A01.792Z%22%2C%22signedUrl%22%3A%22https%3A%2F%2Fmedia-hosting.imagekit.io%2F%2Ffe0f8a9f972e4b50%2FImages%2520(6).png%3FExpires%3D1734451082%26Key-Pair-Id%3DK2ZIVPTIP2VGHC%26Signature%3DRw5bYpq5R4VRtXpKDPhYFbsrKyHMHOdoXj1CTlAzMXKrL6TWUeZykHjI6546PhDHf1dvurPgQR43mZArPERMKu7K1uCdrwGQBApjYZsKMfdrOBN54DQ-D00oRsgazHep8FbJvM1hFF4zLBjIJGi3Js9LTC87Zr45eH7CZ4ipb8oLHbIZSfzrh7LXldZBa7CzAHWeh~FqaJ5SHkjFpqrtmOsIgpVLBCuCbF92C2BJi-XrpSGZBGCLvlXvhw5AJgeghMspxhLq2cqEa~kOhnf5wM02H7Ifsi9rQDqKu9kQR0uZw0qgS4hacLNrYPmwIa7hXd631596Zg7Lra4P7~DFoQ__%22%7D",
+      "name": "Clyde",
+      "description": "Rustic outdoor chair",
+      "rate": "Rp 2.000.000"
+    },
+
+    {
+      "id": 8,
+      "url": "https://imagekit.io/tools/asset-public-link?detail=%7B%22name%22%3A%22Images%20(7).png%22%2C%22type%22%3A%22image%2Fpng%22%2C%22signedurl_expire%22%3A%222024-12-17T15%3A58%3A01.790Z%22%2C%22signedUrl%22%3A%22https%3A%2F%2Fmedia-hosting.imagekit.io%2F%2F80d4f4e4521c43a3%2FImages%2520(7).png%3FExpires%3D1734451082%26Key-Pair-Id%3DK2ZIVPTIP2VGHC%26Signature%3DJ~IdpgHThLH4sjJFXkdYDv6prTnhhG62WUSKPBk2IUI8lpy488Bvwiv87UJQGJtEoburAMF~8jxRnd84014PRJPJON5NsN71W2AAdgegulLYTI-OCb6bEpS5wpVbbu18hEZha93lLKvTSFXd48GYAGHpVdOtWpXkMLn9jiJVlrPV0xUCSUuvvsppt1f0v0NwXq6sZbCG-tiH9367MrYEjLv80h2ZNeCMmZc3Khzpm7RrSz7nnVGIp5qPpD8BMXFw0iA~dLDdxnIzwpmgckMqdqToPBeOHFI~fm-6eVZ3qFqT-Fvx~DHLhP4HJurVEBsZnAkxfoWtnc-SaBQWIexXgg__%22%7D",
+      "name": "Zara",
+      "description": "Designer dining chair",
+      "rate": "Rp 3.500.000"
+    },
+    {
+      "id": 9,
+      "url": "https://imagekit.io/tools/asset-public-link?detail=%7B%22name%22%3A%22image%203.png%22%2C%22type%22%3A%22image%2Fpng%22%2C%22signedurl_expire%22%3A%222024-12-17T15%3A58%3A01.788Z%22%2C%22signedUrl%22%3A%22https%3A%2F%2Fmedia-hosting.imagekit.io%2F%2F3614b509afc64785%2Fimage%25203.png%3FExpires%3D1734451082%26Key-Pair-Id%3DK2ZIVPTIP2VGHC%26Signature%3DY5wDqrW0fumv-FYvpRuIcPgLlTm4tXXYKzi4qlFwpHjTtGw~vEMsq0Onx9Oqx~k3RIRH7i6qbAxqFUNQ-PUqh3Ho5VEca79My1L-Xfg-dtJMZUu3oSDuQ~G0h5FIsZ~hTdxckw4wb26wHl5Be56Q4D6Fj-db8jABUIRPJR6-tfBhmw5Cmb42IlxMQ~Ak4t4ZIL8HCcP3FWfz3E3R5VM0h53MRh716rogQlBwhWW8qD2uTmNzD6Zycu5PP5BNiFMjskz-vrjr5RIzcUGB6BplFWRvJoxNGD2FHXYxRjYaZaZPsLGDWBoF3bl-lzIOt3I5Z~nqo11kVajvK1W5PtKn-A__%22%7D",
+      "name": "Oscar",
+      "description": "Rocking chair",
+      "rate": "Rp 2.800.000"
+    },
+    {
+      "id": 10,
+      "url": "https://imagekit.io/tools/asset-public-link?detail=%7B%22name%22%3A%22Images%20(8).png%22%2C%22type%22%3A%22image%2Fpng%22%2C%22signedurl_expire%22%3A%222024-12-17T15%3A58%3A01.787Z%22%2C%22signedUrl%22%3A%22https%3A%2F%2Fmedia-hosting.imagekit.io%2F%2F6e697d156b0f47fe%2FImages%2520(8).png%3FExpires%3D1734451082%26Key-Pair-Id%3DK2ZIVPTIP2VGHC%26Signature%3DfyPfbcQizuRjOJSQTCes7kVJgUAFDyRyLwHYKv8tkM0tuSqZiJa6U3WDxi1Y-7JqsRYNKseRl26FXVkGfh1BC0QTr8JrTfAOv6Q2DsRq9QvabG3AGSITGRfbVn13gdVtWOcLJbOuf5MFO8YIrC-K7eYaTwIuDxNmVV5RBFMHni1KX2MlBOuJgwEQUgnnAyc~dINdVZ6r74hJcmQJhpivkvJDOholPiQtvOlFazLRlyGGPBi3-Px691PVRXPMg6hO2EUgqXY6J4sCUaDpizyaZDtXWS8kOGqi~tzMfU-L5otnb1JkzMpJJjqnvWu-pOAoayofxGMWRxDD2B8y4KlT8A__%22%7D",
+      "name": "Luna",
+      "description": "Eco-friendly bamboo chair",
+      "rate": "Rp 2.900.000"
+    },
+    {
+      "id": 11,
+      "url": "https://imagekit.io/tools/asset-public-link?detail=%7B%22name%22%3A%22image%201.png%22%2C%22type%22%3A%22image%2Fpng%22%2C%22signedurl_expire%22%3A%222024-12-17T15%3A58%3A01.785Z%22%2C%22signedUrl%22%3A%22https%3A%2F%2Fmedia-hosting.imagekit.io%2F%2F9bc813201b304ae7%2Fimage%25201.png%3FExpires%3D1734451082%26Key-Pair-Id%3DK2ZIVPTIP2VGHC%26Signature%3DURFPerSWCbz7AenNnruf49hjGx5CM6lpBoQl16Qr8yPw~E-qy7FhZr3xafqyMAKkC1D1s3wAXqvcxSOYvkmSZoWZWInQV~vF-5HadEndkP1eVVjOxCvzMKxQBx8qxCa5zbUl3aGCYGoewaoTXzvKaPz12mjuejk4xRSmb3NmlNzNhjag~TSevBgyWNzUsf33aIKwL9x2gJAp8bGMSwH6Xwo-TgstCT8KlTCHygpSWR3IvIK7vhbQjGk0vc4Gl5Qo6r9zN8Hn9m1WnUHMxFwO99gF6rmby2Mu-92tw4e7vBo9kKE6BiQHVr7a~mBkl~dEy0VZg89W9C7iYiVuUj7w6g__%22%7D",
+      "name": "Nova",
+      "description": "Futuristic acrylic chair",
+      "rate": "Rp 3.800.000"
+    },
+    {
+      "id": 12,
+      "url": "https://imagekit.io/tools/asset-public-link?detail=%7B%22name%22%3A%22image%204.png%22%2C%22type%22%3A%22image%2Fpng%22%2C%22signedurl_expire%22%3A%222024-12-17T15%3A58%3A01.780Z%22%2C%22signedUrl%22%3A%22https%3A%2F%2Fmedia-hosting.imagekit.io%2F%2Fdef5e0661af14ada%2Fimage%25204.png%3FExpires%3D1734451082%26Key-Pair-Id%3DK2ZIVPTIP2VGHC%26Signature%3Dn0eEB9Zt2tLJIBzVeoETFrxk7OtgrM36AbIINrbNStnRC5i~TPw50yK~6ZwulZbKVQ1vVD5xqpU8vl46kn0h5ZI5RZ96dKRhGqWJxWeY~dtQmY9IWWiw1nA91qVPRPUuKHr8SZ2m8db0DcTa3BIhtIr8WWE0PhJwt23NmAJZs7Wg5Co0hFNigRffJ3Jsv-5QWLJlNqsN6MPMCdgwKMIMOnffzWzn5KocgyoSL1ZWpmOv9zEqVopNmgw3aD1n2rj1kZkuu4B0vqaVaGhg4TKJWY0eJmcIzRga6sHMslLPjFhHbetudibe5qM1kJdF~lFtptmKsr0cdF1EHGz1T3DTFA__%22%7D",
+      "name": "Pegasus",
+      "description": "Industrial-grade wooden chair",
+      "rate": "Rp 3.500.000"
+    }
+  ]
+}
