@@ -1,6 +1,6 @@
 import Image from "next/image";
 import React from "react";
-import shopBanner from "@/public/shopbanner.png";
+import shopBanner from "../../../public/shopbanner.png";
 import Link from "next/link";
 import { RiArrowRightSLine } from "react-icons/ri";
 

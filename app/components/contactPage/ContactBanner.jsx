@@ -1,7 +1,8 @@
 import Image from "next/image";
 import React from "react";
-import contactBanner from "@/public/shopbanner.png";
-import logo from "@/public/Meubel House_logos-05.png";
+import contactBanner from "../../../public/shopbanner.png";
+import logo from "../../../public/logo.png";
+
 import Link from "next/link";
 import { RiArrowRightSLine } from "react-icons/ri";
 

@@ -3,7 +3,7 @@
 import Image from "next/image";
 import Link from "next/link";
 import React from "react";
-import logo from "@/public/Meubel House_Logos-05.png";
+import logo from "../../../public/logo.png";
 
 // React Icons
 import { CiUser, CiHeart, CiShoppingCart } from "react-icons/ci";

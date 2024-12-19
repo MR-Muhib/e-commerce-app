@@ -2,10 +2,10 @@ import Image from "next/image";
 import React from "react";
 
 // Import all vectors
-import vector1 from "@/public/vector/Vector1.png";
-import vector2 from "@/public/vector/Group 2.png";
-import vector3 from "@/public/vector/Vector 3.png";
-import vector4 from "@/public/vector/Vector 4.png";
+import vector1 from "../../../public/vector/Vector1.png";
+import vector2 from "../../../public/vector/Group 2.png";
+import vector3 from "../../../public/vector/Vector 3.png";
+import vector4 from "../../../public/vector/Vector 4.png";
 
 export default function IntroduceApplication() {
   return (
