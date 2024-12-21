@@ -1,7 +1,7 @@
 import React from "react";
 import ShopBanner from "../components/shopPage/ShopBanner";
 import ShopProducts from "../components/shopPage/ShopProducts";
-import PageExchangeButtons from "../components/shopPage/PageExchangeButtons";
+import PageExchangeButtons from "../components/IntroducApplication/PageExchangeButtons";
 import IntroduceApplication from "../components/IntroducApplication/IntroduceApplication";
 
 export default function page() {
